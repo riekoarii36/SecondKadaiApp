@@ -36,8 +36,7 @@
                                     <segue destination="nEr-KN-vBP" kind="show" id="spX-cb-Pc9"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="名前を入力してください" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pjd-zM-Zog">
-                                <frame key="frameInset" minX="8" minY="28" width="367" height="21"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="名前を入力してください" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pjd-zM-Zog">
                                 <constraints>
                                     <constraint firstAttribute="height" constant="20" id="JUQ-of-f3X"/>
                                 </constraints>
