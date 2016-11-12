@@ -12,6 +12,7 @@
 		7E9055401DD705C300CD44C7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7E90553E1DD705C300CD44C7 /* Main.storyboard */; };
 		7E9055421DD705C300CD44C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E9055411DD705C300CD44C7 /* Assets.xcassets */; };
 		7E9055451DD705C300CD44C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7E9055431DD705C300CD44C7 /* LaunchScreen.storyboard */; };
+		7E90554F1DD70D5700CD44C7 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E90554E1DD70D5700CD44C7 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		7E9055411DD705C300CD44C7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7E9055441DD705C300CD44C7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7E9055461DD705C300CD44C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7E90554E1DD70D5700CD44C7 /* ResultViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				7E90553A1DD705C300CD44C7 /* AppDelegate.swift */,
 				7E90553C1DD705C300CD44C7 /* ViewController.swift */,
 				7E90553E1DD705C300CD44C7 /* Main.storyboard */,
+				7E90554E1DD70D5700CD44C7 /* ResultViewController.swift */,
 				7E9055411DD705C300CD44C7 /* Assets.xcassets */,
 				7E9055431DD705C300CD44C7 /* LaunchScreen.storyboard */,
 				7E9055461DD705C300CD44C7 /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				7E90553D1DD705C300CD44C7 /* ViewController.swift in Sources */,
 				7E90553B1DD705C300CD44C7 /* AppDelegate.swift in Sources */,
+				7E90554F1DD70D5700CD44C7 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,6 +301,7 @@
 				7E90554B1DD705C300CD44C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
